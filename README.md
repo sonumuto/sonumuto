@@ -1,12 +1,21 @@
-# Hi, I'm Umut 👋
+# Hi there, I'm Umut
 
-I'm a software engineer with a focus on automation, DevOps, and backend. I like solving real world problems, building internal tools, and writing clean, maintainable code.
+**Software Developer | DevOps | Automation**  
 
-- 🔭 Currently working on DevSecOps and CI/CD pipelines
-- 🧠 Interested in system design, infrastructure, and automation
-- 🛠️ Tech I work with: Python, Jenkins, Docker, GitLab CI, FastAPI, MongoDB, Linux, AWS
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/umut-yigitoglu/)
-- 🌐 Website: [Portfolio](https://umutyigitoglu.com)
+---
+
+## Tech & Tools I Work With
+- DevSecOps & CI/CD: Jenkins, GitHub Actions, GitLab CI  
+- Security: SAST, SCA, DAST  
+- Cloud & Infrastructure: AWS (EC2, RDS, ECS, ECR, Fargate), Docker, Ansible  
+- Languages & Frameworks: Python, Go, FastAPI, Bash, Swift, JavaScript (React/Next.js)  
+- Databases: PostgreSQL, MongoDB  
+
+---
+
+## How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/umut-yigitoglu)  
+- [GitHub](https://github.com/sonumuto)  
 
 ---
 
